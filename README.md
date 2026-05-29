@@ -24,9 +24,6 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" height="40"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/jupyternotebook-original-wordmark.svg" width="30" height="40"/>
-
-
 <!-- Python -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="40"/>
 
