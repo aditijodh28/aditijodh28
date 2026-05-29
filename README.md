@@ -11,7 +11,6 @@ Passionate about Web Development, AI Tools, and Problem Solving 🚀
 ## 🌱 Currently Learning
 - Bachelor Of Engineering
 - MERN Stack Development
-- Data Structures & Algorithms
 
 ---
 
