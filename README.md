@@ -9,8 +9,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://linkedin.com/in/aditi-jodh-957318378">
-<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="30" />
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
 </a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
