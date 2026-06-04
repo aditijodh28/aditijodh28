@@ -10,7 +10,6 @@ Passionate about Web Development, AI Tools, and Problem Solving 🚀
 
 ## 🌱 Currently Learning
 - Bachelor Of Engineering
-- MERN Stack Development
 
 ---
 
@@ -20,7 +19,7 @@ HTML, CSS, JavaScript, Python, MySQL, DSA
 ---
 
 ## 📫 Contact Me
-📧 aditijodhi@gmail.com
+📧 aditivjodhif@gmail.com
 
 ---
 
