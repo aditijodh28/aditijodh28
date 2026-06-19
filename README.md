@@ -5,7 +5,7 @@
 
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=aditijodh28&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
@@ -39,7 +39,7 @@
 
 <p align="left">
   <a href="https://leetcode.com/u/aditijodh28/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45" />
   </a>
 
   <!-- HackerRank (FIXED) -->
