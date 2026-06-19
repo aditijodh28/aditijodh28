@@ -63,7 +63,7 @@
 
 ## Languages and Tools
 
-<div style="display:flex; flex-wrap:nowrap; gap:12px;">
+<div style="display:flex; flex-wrap:nowrap; gap:15px; align-items:center;">
 
   <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
     <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
