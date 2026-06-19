@@ -1,47 +1,45 @@
-<h1 align="center">Hi 👋, I'm Aditi Jodh</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack Developer | MERN Stack Learner 🚀</h3>
+# Hi 👋, I'm Aditi Jodh 💻
 
-<p align="center">
-Passionate about Web Development, AI Tools, and Problem Solving.
-</p>
+### A passionate Full Stack Developer from India 🇮🇳 🚀
 
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=aditijodh28&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+
+</div>
 
 ---
 
-## 🌱 Currently Learning
+## 👩‍💻 About Me
 
-- Bachelor of Engineering (Information Technology)
-- MERN Stack Development
-- Data Structures & Algorithms
+- 🔭 I'm currently working on **Full Stack Development Projects**
 
----
+- 🌱 I'm currently learning **MERN Stack, DSA and AI Tools**
 
-## 💬 Ask Me About
+- 👯 I'm looking to collaborate on **Open Source Projects**
 
-HTML, CSS, JavaScript, React, Python, MySQL, DSA
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, MySQL and DSA**
 
----
+- 📫 Reach me at **aditivjodhif@gmail.com**
 
-## 📫 Contact Me
-
-📧 **aditivjodhif@gmail.com**
+- 🎓 B.E. Information Technology (4th Year)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" height="40"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="https://github.com/aditijodh28">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="YOUR_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
 </p>
@@ -52,101 +50,87 @@ HTML, CSS, JavaScript, React, Python, MySQL, DSA
 
 <p align="left">
 
-<a href="https://leetcode.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="50" height="50"/>
+<a href="YOUR_LEETCODE">
+<img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" width="50" height="50"/>
+<a href="YOUR_HACKERRANK">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" height="45"/>
 </a>
 
-<a href="https://www.codechef.com/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="50" height="50"/>
+<a href="YOUR_CODECHEF">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" height="45"/>
 </a>
 
-<a href="https://codeforces.com/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="50" height="50"/>
+<a href="YOUR_CODEFORCES">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codeforces.svg" height="45"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" width="50" height="50"/>
+<a href="YOUR_GFG">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/geeksforgeeks.svg" height="45"/>
 </a>
 
-<a href="https://stackoverflow.com/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" width="50" height="50"/>
+<a href="YOUR_STACKOVERFLOW">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stackoverflow.svg" height="45"/>
 </a>
 
 </p>
 
 ---
 
-## 🛠 Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=java"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=git"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=androidstudio"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=html"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=css"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=firebase"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=php"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=postman"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=idea"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=eclipse"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=wordpress"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=c"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=figma"/>
 
 </p>
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijodh28&layout=compact&theme=tokyonight"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=aditijodh28&show_icons=true&theme=tokyonight"/>
 
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aditijodh28&show_icons=true&theme=tokyonight"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijodh28&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -156,14 +140,35 @@ HTML, CSS, JavaScript, React, Python, MySQL, DSA
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=tokyonight"/>
+<img width="70%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=tokyonight"/>
 
 </p>
 
 ---
 
+## 🏆 GitHub Trophies
+
 <p align="center">
 
-⭐ Thanks for visiting my profile ⭐
+<img src="https://github-profile-trophy.vercel.app/?username=aditijodh28&theme=algolia&row=1&column=6"/>
 
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditijodh28&theme=tokyo-night"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</div>
