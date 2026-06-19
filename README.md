@@ -35,37 +35,27 @@
 
 
 ## Coding Profiles
-<div style="display:flex; gap:12px; flex-wrap:nowrap; justify-content:flex-start;">
+<div style="display:flex; flex-wrap:nowrap; gap:15px; align-items:center;">
 
-  <div style="border:1px solid #ddd; padding:10px; border-radius:10px;">
-    <a href="https://leetcode.com/u/aditijodh28/">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/>
-    </a>
-  </div>
+  <a href="https://leetcode.com/u/aditijodh28/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45"/>
+  </a>
 
-  <div style="border:1px solid #ddd; padding:10px; border-radius:10px;">
-    <a href="https://www.hackerrank.com/profile/aditivjodhif">
-      <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="40"/>
-    </a>
-  </div>
+  <a href="https://www.hackerrank.com/profile/aditivjodhif">
+    <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="45"/>
+  </a>
 
-  <div style="border:1px solid #ddd; padding:10px; border-radius:10px;">
-    <a href="https://www.codechef.com/users/aditijodh28">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="40"/>
-    </a>
-  </div>
+  <a href="https://www.codechef.com/users/aditijodh28">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="45"/>
+  </a>
 
-  <div style="border:1px solid #ddd; padding:10px; border-radius:10px;">
-    <a href="https://www.codeforces.com/">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="40"/>
-    </a>
-  </div>
+  <a href="https://codeforces.com/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="45"/>
+  </a>
 
-  <div style="border:1px solid #ddd; padding:10px; border-radius:10px;">
-    <a href="https://www.geeksforgeeks.org/">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="40"/>
-    </a>
-  </div>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="45"/>
+  </a>
 
 </div>
 
