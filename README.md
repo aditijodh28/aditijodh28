@@ -41,13 +41,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45" />
   </a>
 
- <a href="https://www.hackerrank.com/profile/aditivjodhif">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="45"/>
+  
+<a href="https://www.hackerrank.com/profile/aditivjodhif">
+  <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="45"/>
 </a>
 
+  
   <a href="https://www.codechef.com/users/aditijodh28">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="45" />
   </a>
+  
 
   <a href="https://stackoverflow.com/users/22145226/aditi-jodh">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" width="45" />
