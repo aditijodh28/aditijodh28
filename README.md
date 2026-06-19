@@ -1,81 +1,93 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Aditi%20Jodh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+<div align="center">
+
+# Hi 👋, I'm Aditi Jodh 💻  
+### A passionate Full Stack Developer 🚀  
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;MERN+Stack+Learner+🚀;DSA+Enthusiast+🔥;Open+Source+Contributor+🌍" />
+  <img src="https://komarev.com/ghpvc/?username=aditijodh28&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
----
 
-## 👋 About Me
 
-- 🔭 Working on Full Stack Development Projects  
-- 🌱 Learning MERN Stack, DSA & AI Tools  
-- 👯 Open to Open Source Collaboration  
-- 🤝 Love building real-world projects  
-- 💬 Ask me: HTML, JS, Python, MySQL, DSA  
-- 📫 Email: **aditivjodhif@gmail.com**  
+- 🔭 I'm currently working on Full Stack Development Projects  
+- 🌱 I'm currently learning MERN Stack, DSA and AI Tools  
+- 👯 I'm looking to collaborate on Open Source Projects  
+- 🤝 I'm open to collaboration opportunities  
+- 💬 Ask me about HTML, JavaScript, Python, MySQL and DSA  
+- 📫 Reach me at: **aditivjodhif@gmail.com**  
 - 🎓 B.E. Information Technology  
 
----
 
-## 🌐 Connect With Me
 
-<p align="center">
+## Connect With Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/aditi-jodh-957318378/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   <a href="https://github.com/aditijodh28">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
 </p>
 
----
 
-## 💻 Coding Profiles
 
-<p align="center">
+## Coding Profiles
+
+<p align="left">
   <a href="https://leetcode.com/u/aditijodh28/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45" />
   </a>
+
   <a href="https://www.hackerrank.com/profile/aditivjodhif">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="45" />
   </a>
+
   <a href="https://www.codechef.com/users/aditijodh28">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="45" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/22145226/aditi-jodh">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" width="45" />
   </a>
 </p>
 
----
 
-## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,firebase,postman"/>
+## Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java"/>
+  <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://skillicons.dev/icons?i=git"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio"/>
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <img src="https://skillicons.dev/icons?i=css"/>
+  <img src="https://skillicons.dev/icons?i=mongodb"/>
+  <img src="https://skillicons.dev/icons?i=firebase"/>
+  <img src="https://skillicons.dev/icons?i=php"/>
+  <img src="https://skillicons.dev/icons?i=postman"/>
+  <img src="https://skillicons.dev/icons?i=vscode"/>
+  <img src="https://skillicons.dev/icons?i=eclipse"/>
+  <img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=c"/>
 </p>
 
----
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aditijodh28&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijodh28&layout=compact&theme=default&hide_border=false&border_radius=10"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=default&hide_border=false&border_radius=10"/>
 </p>
 
----
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditijodh28&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 🎬 Animated Footer
+## GitHub Trophies
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=120&section=footer"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aditijodh28&theme=default&row=1&column=6"/>
 </p>
