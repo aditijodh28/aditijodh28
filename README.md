@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Aditi Jodh 💻
 
-### A passionate Full Stack Developer from India 🇮🇳 🚀
+### A passionate Full Stack Developer🚀
 
 </div>
 <img src="https://komarev.com/ghpvc/?username=aditijodh28&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -21,7 +21,7 @@
 
 - 📫 Reach me at **aditivjodhif@gmail.com**
 
-- 🎓 B.E. Information Technology (4th Year)
+- 🎓 B.E. Information Technology
 
 ---
 
@@ -30,15 +30,11 @@
 <p align="left">
 
 <a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://www.linkedin.com/in/aditi-jodh-957318378/" height="45"/>
 </a>
 
 <a href="https://github.com/aditijodh28">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+<img src="https://github.com/aditijodh28/aditijodh28" height="45"/>
 </a>
 
 </p>
@@ -50,11 +46,11 @@
 <p align="left">
 
 <a href="YOUR_LEETCODE">
-<img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
+<img src="https://leetcode.com/u/aditijodh28/" height="50"/>
 </a>
 
 <a href="YOUR_HACKERRANK">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" height="45"/>
+<img src="https://www.hackerrank.com/profile/aditivjodhif" height="45"/>
 </a>
 
 <a href="YOUR_CODECHEF">
@@ -62,15 +58,11 @@
 </a>
 
 <a href="YOUR_CODEFORCES">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codeforces.svg" height="45"/>
-</a>
-
-<a href="YOUR_GFG">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/geeksforgeeks.svg" height="45"/>
+<img src="https://www.codechef.com/users/aditijodh28" height="45"/>
 </a>
 
 <a href="YOUR_STACKOVERFLOW">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stackoverflow.svg" height="45"/>
+<img src="https://stackoverflow.com/users/22145226/aditi-jodh" height="45"/>
 </a>
 
 </p>
@@ -105,17 +97,12 @@
 
 <img src="https://skillicons.dev/icons?i=vscode"/>
 
-<img src="https://skillicons.dev/icons?i=idea"/>
-
 <img src="https://skillicons.dev/icons?i=eclipse"/>
-
-<img src="https://skillicons.dev/icons?i=wordpress"/>
 
 <img src="https://skillicons.dev/icons?i=cpp"/>
 
 <img src="https://skillicons.dev/icons?i=c"/>
 
-<img src="https://skillicons.dev/icons?i=figma"/>
 
 </p>
 
@@ -165,9 +152,3 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=to
 </p>
 
 ---
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
-</div>
