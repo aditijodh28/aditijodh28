@@ -29,12 +29,12 @@
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://www.linkedin.com/in/aditi-jodh-957318378/" height="45"/>
+<a href="https://www.linkedin.com/in/aditi-jodh-957318378/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="https://github.com/aditijodh28">
-<img src="https://github.com/aditijodh28/aditijodh28" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 </p>
@@ -45,24 +45,20 @@
 
 <p align="left">
 
-<a href="YOUR_LEETCODE">
-<img src="https://leetcode.com/u/aditijodh28/" height="50"/>
+<a href="https://leetcode.com/u/aditijodh28/">
+<img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
 </a>
 
-<a href="YOUR_HACKERRANK">
-<img src="https://www.hackerrank.com/profile/aditivjodhif" height="45"/>
+<a href="https://www.hackerrank.com/profile/aditivjodhif">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" height="45"/>
 </a>
 
-<a href="YOUR_CODECHEF">
+<a href="https://www.codechef.com/users/aditijodh28">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" height="45"/>
 </a>
 
-<a href="YOUR_CODEFORCES">
-<img src="https://www.codechef.com/users/aditijodh28" height="45"/>
-</a>
-
-<a href="YOUR_STACKOVERFLOW">
-<img src="https://stackoverflow.com/users/22145226/aditi-jodh" height="45"/>
+<a href="https://stackoverflow.com/users/22145226/aditi-jodh">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stackoverflow.svg" height="45"/>
 </a>
 
 </p>
@@ -113,10 +109,10 @@
 <p align="center">
 
 <img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=aditijodh28&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=aditijodh28&show_icons=true&theme=default"/>
 
 <img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijodh28&layout=compact&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijodh28&layout=compact&theme=default"/>
 
 </p>
 
@@ -127,7 +123,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijodh28&
 <p align="center">
 
 <img width="70%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=tokyonight"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=default"/>
 
 </p>
 
@@ -137,7 +133,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=to
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aditijodh28&theme=algolia&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aditijodh28&theme=default&row=1&column=6"/>
 
 </p>
 
@@ -147,7 +143,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=to
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditijodh28&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditijodh28&theme=default"/>
 
 </p>
 
