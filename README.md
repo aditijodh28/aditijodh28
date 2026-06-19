@@ -95,7 +95,7 @@
 
 <img src="https://skillicons.dev/icons?i=eclipse"/>
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 
 <img src="https://skillicons.dev/icons?i=c"/>
 
@@ -139,12 +139,3 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=de
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditijodh28&theme=default"/>
-
-</p>
-
----
