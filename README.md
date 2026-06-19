@@ -4,9 +4,8 @@
 
 ### A passionate Full Stack Developer from India 🇮🇳 🚀
 
-<img src="https://komarev.com/ghpvc/?username=aditijodh28&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-
 </div>
+<img src="https://komarev.com/ghpvc/?username=aditijodh28&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 
 ---
 
