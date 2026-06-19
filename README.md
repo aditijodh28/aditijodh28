@@ -35,23 +35,26 @@
 
 
 ## Coding Profiles
-
 <p align="left">
 
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/aditijodh28/">
-    <img src="https://cdn.simpleicons.org/leetcode/F89F1B" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45"/>
   </a>
 
+  <!-- HackerRank (FIXED) -->
   <a href="https://www.hackerrank.com/profile/aditivjodhif">
     <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="45"/>
   </a>
 
+  <!-- CodeChef -->
   <a href="https://www.codechef.com/users/aditijodh28">
-    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="45"/>
   </a>
 
+  <!-- StackOverflow -->
   <a href="https://stackoverflow.com/users/22145226/aditi-jodh">
-    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" width="45"/>
   </a>
 
 </p>
