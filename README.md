@@ -35,7 +35,7 @@
 
 
 ## Coding Profiles
-<div style="display:flex; gap:12px; flex-wrap:wrap; justify-content:flex-start;">
+<div style="display:flex; gap:12px; flex-wrap:nowrap; justify-content:flex-start;">
 
   <div style="border:1px solid #ddd; padding:10px; border-radius:10px;">
     <a href="https://leetcode.com/u/aditijodh28/">
@@ -73,7 +73,7 @@
 
 ## Languages and Tools
 
-<div style="display:flex; flex-wrap:wrap; gap:12px;">
+<div style="display:flex; flex-wrap:nowrap; gap:12px;">
 
   <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
     <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
