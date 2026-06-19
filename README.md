@@ -65,37 +65,21 @@
 
 <div style="display:flex; flex-wrap:nowrap; gap:15px; align-items:center;">
 
-  <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
-    <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
-  </div>
-
-  <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
-    <img src="https://skillicons.dev/icons?i=python" width="40"/>
-  </div>
-
-  <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
-    <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
-  </div>
-
-  <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
-    <img src="https://skillicons.dev/icons?i=git" width="40"/>
-  </div>
-
-  <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
-    <img src="https://skillicons.dev/icons?i=github" width="40"/>
-  </div>
-
-  <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
-    <img src="https://skillicons.dev/icons?i=html" width="40"/>
-  </div>
-
-  <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
-    <img src="https://skillicons.dev/icons?i=css" width="40"/>
-  </div>
-
-  <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
-    <img src="https://skillicons.dev/icons?i=javascript" width="40"/>
-  </div>
+<img src="https://skillicons.dev/icons?i=java"/>
+  <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://skillicons.dev/icons?i=git"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <img src="https://skillicons.dev/icons?i=css"/>
+  <img src="https://skillicons.dev/icons?i=mongodb"/>
+  <img src="https://skillicons.dev/icons?i=firebase"/>
+  <img src="https://skillicons.dev/icons?i=php"/>
+  <img src="https://skillicons.dev/icons?i=dsa"/>
+  <img src="https://skillicons.dev/icons?i=vscode"/>
+  <img src="https://skillicons.dev/icons?i=eclipse"/>
+  <img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=c"/>
 
 </div>
 
