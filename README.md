@@ -90,15 +90,3 @@
 </p>
 
 
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditijodh28" />
-</p>
-
-## Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditijodh28&theme=default&row=1&column=6" />
-</p>
