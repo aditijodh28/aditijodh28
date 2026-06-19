@@ -9,23 +9,25 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🔭 I'm currently working on **Full Stack Development Projects**
+- 🔭 I'm currently working on Full Stack Development Projects
 
-- 🌱 I'm currently learning **MERN Stack, DSA and AI Tools**
+- 🌱 I'm currently learning MERN Stack, DSA and AI Tools
 
-- 👯 I'm looking to collaborate on **Open Source Projects**
+- 👯 I'm looking to collaborate on Open Source Projects
+  
+- 🤝 I’m looking for help with Open to Collaboration
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, MySQL and DSA**
+- 💬 Ask me about HTML, JavaScript, Python, MySQL and DSA  
 
-- 📫 Reach me at **aditivjodhif@gmail.com**
+- 📫 Reach me at aditivjodhif@gmail.com
 
 - 🎓 B.E. Information Technology
 
----
 
-## 🌐 Connect With Me
+
+## Connect With Me
 
 <p align="left">
 
@@ -37,9 +39,9 @@
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
----
 
-## 💻 Coding Profiles
+
+## Coding Profiles
 
 <p align="left">
 
@@ -60,9 +62,8 @@
 </a>
 </p>
 
----
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="left">
 
@@ -99,9 +100,8 @@
 
 </p>
 
----
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="left">
 
@@ -112,7 +112,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijodh28&
 src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=default&hide_border=false&border_radius=10"/>
 
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
 
@@ -120,5 +120,4 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=de
 
 </p>
 
----
 
