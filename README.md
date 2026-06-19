@@ -35,51 +35,79 @@
 
 
 ## Coding Profiles
-<p align="left">
+<div style="display:flex; gap:12px; flex-wrap:wrap; justify-content:flex-start;">
 
-<p align="left">
-  <a href="https://leetcode.com/u/aditijodh28/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45" />
-  </a>
+  <div style="border:1px solid #ddd; padding:10px; border-radius:10px;">
+    <a href="https://leetcode.com/u/aditijodh28/">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/>
+    </a>
+  </div>
 
-  <!-- HackerRank (FIXED) -->
-  <a href="https://www.hackerrank.com/profile/aditivjodhif">
-    <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="45"/>
-  </a>
+  <div style="border:1px solid #ddd; padding:10px; border-radius:10px;">
+    <a href="https://www.hackerrank.com/profile/aditivjodhif">
+      <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="40"/>
+    </a>
+  </div>
 
-  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/aditijodh28">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="45"/>
-  </a>
+  <div style="border:1px solid #ddd; padding:10px; border-radius:10px;">
+    <a href="https://www.codechef.com/users/aditijodh28">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="40"/>
+    </a>
+  </div>
 
-  <!-- StackOverflow -->
-  <a href="https://stackoverflow.com/users/22145226/aditi-jodh">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" width="45"/>
-  </a>
+  <div style="border:1px solid #ddd; padding:10px; border-radius:10px;">
+    <a href="https://www.codeforces.com/">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="40"/>
+    </a>
+  </div>
 
-</p>
+  <div style="border:1px solid #ddd; padding:10px; border-radius:10px;">
+    <a href="https://www.geeksforgeeks.org/">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="40"/>
+    </a>
+  </div>
+
+</div>
 
 
 
 ## Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java"/>
-  <img src="https://skillicons.dev/icons?i=mysql"/>
-  <img src="https://skillicons.dev/icons?i=git"/>
-  <img src="https://skillicons.dev/icons?i=github"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio"/>
-  <img src="https://skillicons.dev/icons?i=html"/>
-  <img src="https://skillicons.dev/icons?i=css"/>
-  <img src="https://skillicons.dev/icons?i=mongodb"/>
-  <img src="https://skillicons.dev/icons?i=firebase"/>
-  <img src="https://skillicons.dev/icons?i=php"/>
-  <img src="https://skillicons.dev/icons?i=postman"/>
-  <img src="https://skillicons.dev/icons?i=vscode"/>
-  <img src="https://skillicons.dev/icons?i=eclipse"/>
-  <img src="https://skillicons.dev/icons?i=python"/>
-  <img src="https://skillicons.dev/icons?i=c"/>
-</p>
+<div style="display:flex; flex-wrap:wrap; gap:12px;">
+
+  <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
+    <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
+  </div>
+
+  <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
+    <img src="https://skillicons.dev/icons?i=python" width="40"/>
+  </div>
+
+  <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
+    <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+  </div>
+
+  <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
+    <img src="https://skillicons.dev/icons?i=git" width="40"/>
+  </div>
+
+  <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </div>
+
+  <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
+    <img src="https://skillicons.dev/icons?i=html" width="40"/>
+  </div>
+
+  <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
+    <img src="https://skillicons.dev/icons?i=css" width="40"/>
+  </div>
+
+  <div style="border:1px solid #ddd; padding:12px; border-radius:10px;">
+    <img src="https://skillicons.dev/icons?i=javascript" width="40"/>
+  </div>
+
+</div>
 
 
 ## GitHub Stats
