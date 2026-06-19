@@ -36,24 +36,28 @@
 
 ## Coding Profiles
 
+<style>
+.icon:hover {
+  transform: scale(1.15);
+  transition: 0.3s;
+}
+</style>
+
 <p align="left">
   <a href="https://leetcode.com/u/aditijodh28/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45" />
+    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45"/>
   </a>
 
-  
-<a href="https://www.hackerrank.com/profile/aditivjodhif">
-  <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="45"/>
-</a>
+  <a href="https://www.hackerrank.com/profile/aditivjodhif">
+    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="45"/>
+  </a>
 
-  
   <a href="https://www.codechef.com/users/aditijodh28">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="45" />
+    <img class="icon" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="45"/>
   </a>
-  
 
   <a href="https://stackoverflow.com/users/22145226/aditi-jodh">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" width="45" />
+    <img class="icon" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" width="45"/>
   </a>
 </p>
 
