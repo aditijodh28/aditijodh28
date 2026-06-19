@@ -47,15 +47,15 @@
   </a>
 
   <a href="https://codeforces.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces-original.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="45"/>
   </a>
 
   <a href="https://www.geeksforgeeks.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geeksforgeeks-original.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geeksforgeeks/geeksforgeeks-original.svg" width="45"/>
   </a>
 
   <a href="https://www.codechef.com/users/aditijodh28">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef-original.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="45"/>
   </a>
 
 </div>
