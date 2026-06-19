@@ -37,9 +37,9 @@
 ## Coding Profiles
 <p align="left">
 
-  <!-- LeetCode -->
+<p align="left">
   <a href="https://leetcode.com/u/aditijodh28/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" width="45"/>
   </a>
 
   <!-- HackerRank (FIXED) -->
