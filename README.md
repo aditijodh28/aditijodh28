@@ -25,7 +25,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="left">
 
@@ -37,8 +37,6 @@
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-</p>
-
 ---
 
 ## 💻 Coding Profiles
@@ -46,21 +44,20 @@
 <p align="left">
 
 <a href="https://leetcode.com/u/aditijodh28/">
-<img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" width="45"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/aditivjodhif">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" width="45"/>
 </a>
 
 <a href="https://www.codechef.com/users/aditijodh28">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" width="45"/>
 </a>
 
 <a href="https://stackoverflow.com/users/22145226/aditi-jodh">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stackoverflow.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stackoverflow.svg" width="45"/>
 </a>
-
 </p>
 
 ---
@@ -106,21 +103,15 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p align="left">
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=aditijodh28&show_icons=true&theme=default"/>
+<img width="38%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijodh28&layout=compact&theme=default&hide_border=false&border_radius=10"/>
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijodh28&layout=compact&theme=default"/>
-
-</p>
-
----
+<img width="58%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=default&hide_border=false&border_radius=10"/>
 
 ## 🔥 GitHub Streak
-
-<p align="center">
 
 <img width="70%"
 src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=default"/>
