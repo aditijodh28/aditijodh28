@@ -111,14 +111,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijodh28&
 <img width="58%"
 src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=default&hide_border=false&border_radius=10"/>
 
-## 🔥 GitHub Streak
-
-<img width="70%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=default"/>
-
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 
