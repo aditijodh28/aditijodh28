@@ -70,7 +70,6 @@
 
 <div style="display:flex; flex-wrap:nowrap; gap:15px; align-items:center;">
 
-<img src="https://skillicons.dev/icons?i=java"/>
   <img src="https://skillicons.dev/icons?i=mysql"/>
   <img src="https://skillicons.dev/icons?i=git"/>
   <img src="https://skillicons.dev/icons?i=github"/>
@@ -84,7 +83,6 @@
   <img src="https://skillicons.dev/icons?i=vscode"/>
   <img src="https://skillicons.dev/icons?i=eclipse"/>
   <img src="https://skillicons.dev/icons?i=python"/>
-  <img src="https://skillicons.dev/icons?i=c"/>
 
 </div>
 
