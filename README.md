@@ -79,7 +79,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb"/>
   <img src="https://skillicons.dev/icons?i=firebase"/>
   <img src="https://skillicons.dev/icons?i=php"/>
-  <img src="https://skillicons.dev/icons?i=dsa"/>
   <img src="https://skillicons.dev/icons?i=vscode"/>
   <img src="https://skillicons.dev/icons?i=eclipse"/>
   <img src="https://skillicons.dev/icons?i=python"/>
