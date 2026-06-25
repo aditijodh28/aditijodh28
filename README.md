@@ -46,12 +46,8 @@
     <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="45"/>
   </a>
 
-  <a href="https://codeforces.com/">
+  <a href="https://codeforces.com/profile/aditijodh">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codeforces.svg" width="45"/>
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/geeksforgeeks.svg" width="45"/>
   </a>
 
   <a href="https://www.codechef.com/users/aditijodh28">
