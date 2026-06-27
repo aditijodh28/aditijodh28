@@ -22,7 +22,6 @@
 
 
 ## Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/aditi-jodh-957318378/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
@@ -32,11 +31,8 @@
   </a>
 </p>
 
-
-
 ## Coding Profiles
 <div style="display:flex; flex-wrap:nowrap; gap:15px; align-items:center;">
-
   <p align="left">
   <a href="https://leetcode.com/u/aditijodh28/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45" />
@@ -57,15 +53,10 @@
   <a href="https://stackoverflow.com/users/22145226/aditi-jodh">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stackoverflow.svg" width="45"/>
   </a>
-
 </div>
 
-
-
 ## Languages and Tools
-
 <div style="display:flex; flex-wrap:nowrap; gap:15px; align-items:center;">
-
   <img src="https://skillicons.dev/icons?i=mysql"/>
   <img src="https://skillicons.dev/icons?i=git"/>
   <img src="https://skillicons.dev/icons?i=github"/>
@@ -78,12 +69,9 @@
   <img src="https://skillicons.dev/icons?i=vscode"/>
   <img src="https://skillicons.dev/icons?i=eclipse"/>
   <img src="https://skillicons.dev/icons?i=python"/>
-
 </div>
 
-
 ## GitHub Stats
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijodh28&layout=compact&theme=default&hide_border=false&border_radius=10"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=default&hide_border=false&border_radius=10"/>
