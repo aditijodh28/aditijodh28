@@ -4,12 +4,9 @@
 ### A passionate Full Stack Developer 🚀  
 
 </div>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aditijodh28&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
-
-
 
 - 🔭 I'm currently working on Full Stack Development Projects  
 - 🌱 I'm currently learning MERN Stack, DSA and AI Tools  
