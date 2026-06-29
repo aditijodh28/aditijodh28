@@ -16,8 +16,6 @@
 - 📫 Reach me at: **aditivjodhif@gmail.com**  
 - 🎓 B.E. Information Technology  
 
-
-
 ## Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/aditi-jodh-957318378/">
@@ -73,5 +71,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijodh28&layout=compact&theme=default&hide_border=false&border_radius=10"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=default&hide_border=false&border_radius=10"/>
 </p>
-
-
