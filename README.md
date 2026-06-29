@@ -1,5 +1,4 @@
 <div align="center">
-
 # Hi 👋, I'm Aditi Jodh 💻  
 ### A passionate Full Stack Developer 🚀  
 
@@ -8,13 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=aditijodh28&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-- 🔭 I'm currently working on Full Stack Development Projects  
-- 🌱 I'm currently learning MERN Stack, DSA and AI Tools  
-- 👯 I'm looking to collaborate on Open Source Projects  
-- 🤝 I'm open to collaboration opportunities  
-- 💬 Ask me about HTML, JavaScript, Python, MySQL and DSA  
-- 📫 Reach me at: **aditivjodhif@gmail.com**  
-- 🎓 B.E. Information Technology  
+- 🔭 I'm currently working on Full Stack Development Projects.  
+- 🌱 I'm currently learning MERN Stack, DSA and AI Tools.
+- 👯 I'm looking to collaborate on Open Source Projects. 
+- 🤝 I'm open to collaboration opportunities.
+- 💬 Ask me about HTML, JavaScript, Python, MySQL and DSA.  
+- 📫 Reach me at: **aditivjodhif@gmail.com**. 
+- 🎓 B.E. Information Technology.
 
 ## Connect With Me
 <p align="left">
