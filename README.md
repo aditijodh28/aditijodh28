@@ -16,7 +16,6 @@
 - 🎓 B.E. Information Technology.
 
 ## Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/aditi-jodh-957318378/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
