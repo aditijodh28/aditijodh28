@@ -68,6 +68,5 @@
 
 ## GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijodh28&layout=compact&theme=default&hide_border=false&border_radius=10"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=default&hide_border=false&border_radius=10"/>
 </p>
