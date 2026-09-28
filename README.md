@@ -33,7 +33,7 @@
 ---
 
 ## 🛠️ Technologies & Tools
-
+<div style="display:flex; flex-wrap:nowrap; gap:15px; align-items:center;">
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
@@ -52,7 +52,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase" />
 </p>
-
+</div>
 ---
 
 
