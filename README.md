@@ -34,25 +34,20 @@
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Programming & Web
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
-### ⚛️ Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,angular,php,laravel" />
 </p>
 
-### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" />
 </p>
 
-### 🔧 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase" />
@@ -60,56 +55,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏢 Smart Facility Management Dashboard
-
-A full-stack web application designed to manage facility operations and inspection data.
-
-**Highlights:**
-
-* 📊 Interactive dashboard
-* 🏢 Facility management
-* 🔍 Search and filtering
-* 📝 Inspections management
-* 🚨 Complaints management
-* 🔄 CRUD operations
-* 🌐 API integration
-* 📱 Responsive interface
-
-**Tech:** `Next.js` `TypeScript` `PostgreSQL` `REST API`
-
----
-
-### 👥 Employee Management System
-
-A web-based application for managing employee information and organizational data.
-
-**Features:**
-
-* Employee CRUD operations
-* Department management
-* Search functionality
-* REST API integration
-* Responsive dashboard
-
-**Tech:** `React` `TypeScript` `Node.js` `Express` `SQL`
-
----
-
-### 📊 Data Analysis & Machine Learning Projects
-
-Worked on Python-based projects involving:
-
-* 🐍 Data cleaning and preprocessing
-* 📈 Exploratory Data Analysis
-* 📊 Data visualization
-* 🤖 Machine Learning models
-* 🏢 Facility hygiene/risk analysis
-
-**Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`
-
----
 
 ## 📚 Currently Learning
 
@@ -201,10 +146,3 @@ and continuously exploring technologies that help me become a better developer.
 
 ---
 
-<div align="center">
-
-### 🌱 Always Learning. Always Building.
-
-⭐ Thanks for visiting my profile!
-
-</div>
