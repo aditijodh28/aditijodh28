@@ -34,24 +34,12 @@
 
 ## 🛠️ Technologies & Tools
 <div style="display:flex; flex-wrap:nowrap; gap:15px; align-items:center;">
-<p>
+
   <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
-
-
-<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,angular,php,laravel" />
-</p>
-
-
-<p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" />
-</p>
-
-
-<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase" />
-</p>
+
 </div>
 ---
 
@@ -66,17 +54,6 @@
 * 🤖 AI & Machine Learning
 * ☁️ Cloud & Deployment
 * 🔓 Open Source Development
-
----
-
-## 💡 What I Enjoy
-
-```text
-Build → Learn → Solve → Improve → Repeat 🚀
-```
-
-I enjoy turning ideas into working applications, solving programming problems,
-and continuously exploring technologies that help me become a better developer.
 
 ---
 
@@ -111,18 +88,9 @@ and continuously exploring technologies that help me become a better developer.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aditijodh28&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=transparent&hide_border=true" height="165"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditijodh28&layout=compact&theme=transparent&hide_border=true" height="165"/>
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditijodh28&theme=default&hide_border=false&border_radius=10"/>
+</p>
 
 </div>
 
