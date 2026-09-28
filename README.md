@@ -14,19 +14,19 @@
 
 ## 👩‍💻 About Me
 
-🎓 **B.E. Information Technology Student**
+🎓 B.E. Information Technology Student.
 
-💻 Interested in **Full-Stack Web Development**
+💻 Interested in Full-Stack Web Development.
 
-🐍 Working with **Python, JavaScript, SQL & Web Technologies**
+🐍 Working with Python, JavaScript, SQL & Web Technologies.
 
-🤖 Exploring **AI Tools & AI-powered applications**
+🤖 Exploring AI Tools & AI-powered applications.
 
-🧩 Practicing **Data Structures & Algorithms**
+🧩 Practicing Data Structures & Algorithms.
 
-🌐 Building responsive and user-friendly web applications
+🌐 Building responsive and user-friendly web applications.
 
-🚀 Interested in **Open Source & collaborative projects**
+🚀 Interested in Open Source & collaborative projects.
 
 📍 Maharashtra, India
 
