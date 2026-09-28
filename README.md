@@ -16,12 +16,12 @@
 
 ## 🌟 About Me
 
-- 🔭 Currently building **Full Stack Development Projects**
-- 🌱 Learning **MERN Stack, DSA & AI Tools**
-- 🤝 Open to **Open Source & Collaboration Opportunities**
-- 💬 Ask me about **HTML, JavaScript, Python, MySQL & DSA**
-- 🎓 **B.E. in Information Technology**
-- 📫 **aditivjodhif@gmail.com**
+- 🔭 Currently building Full Stack Development Projects.
+- 🌱 Learning MERN Stack, DSA & AI Tools.
+- 🤝 Open to Open Source & Collaboration Opportunities.
+- 💬 Ask me about HTML, JavaScript, Python, MySQL & DSA.
+- 🎓 B.E. in Information Technology.
+- 📫 aditivjodhif@gmail.com
 
 ---
 
